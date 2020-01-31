@@ -1,2 +1,2 @@
 # Thread-Server
-多线程的服务器
+qt 多线程的服务器
